@@ -99,6 +99,7 @@ width: 100%;
 }
 .profile-pic{
   margin-top: 30px;
+  border-radius: 100%;
 }
 .intro{
   width: 30%;
